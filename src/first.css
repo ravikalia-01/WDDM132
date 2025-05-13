@@ -16,3 +16,35 @@
     text-align: center;
     text-transform: uppercase;
 }
+.bio {
+    background-color: papayawhip;
+    padding: 1rem;
+    color: #6f06f0;
+    display: flex;
+
+    
+}
+
+.head2 {
+    margin-bottom: 1rem;
+    background-color: #7c2e71;
+    padding: 1rem;
+    color: #eadce7;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: italic; 
+    text-align: left;
+    flex: 70%;
+    margin-right: 2rem;
+    vertical-align: middle;
+}
+
+.pic1 {
+    background-color: #f0e68c;
+    padding: 1rem;
+    color: #6f06f0;
+    text-align: left;
+    font-style: italic; 
+    flex: 30%;
+    height: 20vh;
+}

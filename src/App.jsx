@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import First from './first.jsx'
 import './App.css'
 import Home from './Home.jsx'
+import ResumeBuilder from "./components/ResumeBuilder";
 
 
 function App() {
@@ -34,6 +35,9 @@ function App() {
       </p>
 
       <First />
+    <div className="App">
+      <ResumeBuilder />
+    </div>
     </>
   )
 }
